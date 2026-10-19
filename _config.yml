@@ -1,6 +1,6 @@
 # Site settings
 title: Aya's Portfolio
-baseurl: "/ap"
+baseurl: "/aya.github.io"
 url: "https://aya.github.io"
 google_analytics: # Tracking ID, e.g. "UA-000000-01"
 
