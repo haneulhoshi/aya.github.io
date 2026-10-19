@@ -3,9 +3,11 @@ layout: about
 ---
 
 # About Me
-There is no specific format here. You can fill out the form you want.  
-For example, you might want to write a brief introduction about your self, experience, interests, publications, and other information.  
-I wrote "about me", "career", and "interests" on this page as an example.  
+I am a Global Korea Scholarship (GKS-U) recipient from the Philippines, currently pursuing a degree in Smart Security at Konyang University, South Korea.
+
+My academic interests include cybersecurity, artificial intelligence, and the intersection of technology and human behavior. I am also involved in undergraduate research, exploring the application of AI to real-world challenges.
+
+Through my academic and research experiences, I aim to develop practical technical skills while contributing to meaningful, interdisciplinary projects.
 
 <br/>
 
