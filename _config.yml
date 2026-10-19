@@ -7,7 +7,7 @@ google_analytics: # Tracking ID, e.g. "UA-000000-01"
 # Author
 author:
   name: Aya C.
-  desc: GKS-UIC Scholar 2025 at Konyang Univeristy, Department of Smart Security
+  desc: GKS-UIC Scholar 2025 at Konyang University, Department of Smart Security
   email: ac777@gmail.com
   selfie: assets/img/666591344_4427261140884523_914129855061447085_n.jpg
 
@@ -17,9 +17,9 @@ social:
   behance:
   bitbucket:
   dribbble:
-  facebook: Test
+  facebook:
   flickr:
-  github: kssim
+  github: 
   google_plus:
   instagram: https://www.instagram.com/haneul_hoshi/
   keybase:
