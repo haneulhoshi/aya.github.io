@@ -11,18 +11,26 @@ Through my academic and research experiences, I aim to develop practical technic
 
 <br/>
 
-# Career
-* Second Company (2012/01 ~ )
-  * Web Application Firewall
-    * Developed TCP network acceleration module.
-    * Developde Application User Interface.
-* First Company (2011/01 ~ 2011/12)
-  * VPN Development Company
-  * Team Leader of VPN Development Div.
+# Experience
+
+**Undergraduate Research Assistant | Konyang University (June 2026 – Present)**
+- Participating in interdisciplinary research involving artificial intelligence and human-centered systems.
+- Exploring Human-in-the-Loop (HITL) AI applications for military conflict management.
+- Supporting research documentation, academic writing, and project development.
+
+**English Language Tutor | Konyang University (May 2026 – Present)**
+- Providing English-language instruction and communication support to university professors and graduate researchers.
+- Assisting with academic and professional English communication.
+
+**Head of Education Department | International Student Council (2026)**
+- Supporting educational initiatives and student engagement.
+- Contributing to activities that promote international student participation and academic development.
 
 <br/>
 
 # Interests
-I am interested in technology trends.  
-I'm not afraid to learn languages, but I enjoy using Python.  
-I like to automate and reduce annoying things.  
+My academic interests include cybersecurity, artificial intelligence, human-computer interaction, and the social implications of emerging technologies.
+
+I am particularly interested in understanding how technology can be developed responsibly to support human decision-making and address real-world challenges.
+
+Beyond academics, I enjoy language learning, independent research, and exploring new areas of knowledge. 
